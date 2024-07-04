@@ -2,6 +2,8 @@
 Streamline tasks by generating Excel templates for parsers CIM validation, saving the team 15-30 minutes for the need to manually making the template every time.
 
 ## Outcome of the Python Script
+**Disclaimer:** The sample file contains made-up hostnames and IP addresses to deter any potential security or privacy concerns.
+
 Given a sample file containing the detailed list of newly onboarded devices as shown:
 ![Sample_Input](https://github.com/jl-chan/TA_artefacts_parsers_verification/blob/main/assets/screenshots/Generate_Parsers_Verification_Template_Before.png)
 
