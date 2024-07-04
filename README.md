@@ -30,21 +30,21 @@ Manually, we need to split the entries into different tabs according to the data
      
 By following these steps, you will organize the entries according to their respective data models, ensuring each tab is correctly populated for further validation and completeness checks. Outcomes are as shown below:
 
+<br /><br />
 Three data model are in use and hence three tabs are created. And for each tab contains entries that has associuated with the data model respectively:
 
-The "DM-Authentication" tab
+**The "DM-Authentication" tab**
 ![Sample_Output_DM_Authentication](https://github.com/jl-chan/TA_artefacts_parsers_verification/blob/main/assets/screenshots/Generate_Parsers_Verification_Template_After1.png)
 
-The "DM-Change" tab
+**The "DM-Change" tab**
 ![Sample_Output_DM_Change](https://github.com/jl-chan/TA_artefacts_parsers_verification/blob/main/assets/screenshots/Generate_Parsers_Verification_Template_After2.png)
 
-The "DM-Database" tab
+**The "DM-Database" tab**
 ![Sample_Output_DM_Database](https://github.com/jl-chan/TA_artefacts_parsers_verification/blob/main/assets/screenshots/Generate_Parsers_Verification_Template_After3.png)
 
-***With the scripts, the boring manual splitting entries job can be done, we could generate the template immediately and continue with just filling in the content with the necessary screenshots and validation details for the entry parser's completeness validation status.***
+***With the provided scripts, the tedious manual splitting of entries can be automated. The script will generate the necessary templates immediately, allowing you to focus on filling in the content with the required screenshots and validation details for the entry parser's completeness validation status.***
 
-
-## Instructions for Running the Python Script
+## Instructions for Automate the Process Using Python Script
 
 To run the Python script, please follow the steps below:
 
