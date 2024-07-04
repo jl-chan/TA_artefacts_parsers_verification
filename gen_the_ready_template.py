@@ -3,7 +3,7 @@ from openpyxl import load_workbook
 from utils_openpyxl import *
 
 # Load the Excel file
-file_path = 'Log Verification_DC_Exit_090424.xlsx'
+file_path = 'Log Verification_DC_Exit_Sample.xlsx'
 df = pd.read_excel(file_path, sheet_name='Log Source List')
 print(df)
 
